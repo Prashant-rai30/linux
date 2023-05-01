@@ -1,0 +1,11 @@
+.TH sigint "1 Mach 2023" "1.0" "sigint man page"
+.SH SYNOPSIS
+sigint \- use in signals
+.SH DESCRIPTION
+THe \"sigint program interrupt signal is sent when the user types the INTR character"
+.SH VERSIONS
+This the the first version of the sigint where man command is used
+.SH BUGS
+no bugs discovered yet
+.SH AUTHOR
+Prashant.b

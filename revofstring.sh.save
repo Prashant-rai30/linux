@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Prashant" | rev
+for ((i=0;i
